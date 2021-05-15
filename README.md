@@ -46,8 +46,6 @@ there are 3 problem
 ### Data Transformation
 standardization is used because it relates to PCA(Principan Component Analysis)
 
-![image.png](attachment:0aeffe8b-a7f9-4d2e-82c7-118074399d5c.png)
-
 standardization (or Z-score normalization) is that the features will be rescaled so that they’ll have the properties of a standard normal distribution with
 μ=0 and σ=1
 
