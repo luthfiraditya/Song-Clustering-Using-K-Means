@@ -1,3 +1,5 @@
+*sometimes you can't open the .ipynb file. You still can acces the file in this link : https://nbviewer.jupyter.org/github/luthfiraditya/Song-Clustering-Using-K-Means/blob/main/KmeansSpotify.ipynb
+
 # Song-Clustering-Using-K-Means
 <br>
 
